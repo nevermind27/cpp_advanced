@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libtp.a CMakeFiles/tp.dir/ThreadPool.cpp.o
+/usr/bin/ranlib ../../lib/libtp.a
